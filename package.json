@@ -1,0 +1,16 @@
+{
+  "name": "notes-api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Small Express API used as the public demo repo for the Agent Shipped channel.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test test/"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
