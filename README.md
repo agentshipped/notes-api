@@ -16,3 +16,4 @@ Endpoints: `GET /health`, `GET /notes`, `GET /notes/:id`, `POST /notes {title, b
 Videos on the Agent Shipped channel that use this repo:
 
 - [One git hook blocked a fake GitHub token, so no secret hit history #Shorts](https://youtu.be/8xQ3gWhe1fQ) · E002 · 2026-11-02
+- [Claude Code invented one endpoint shape. A 3-line rule fixed it #Shorts](https://youtu.be/t9Ek80jnkV0) · E001 · 2026-11-03
