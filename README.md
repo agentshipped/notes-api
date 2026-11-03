@@ -10,3 +10,9 @@ npm test           # node:test (no tests yet - that is on purpose)
 ```
 
 Endpoints: `GET /health`, `GET /notes`, `GET /notes/:id`, `POST /notes {title, body}`, `DELETE /notes/:id`.
+
+## Shown in
+
+Videos on the Agent Shipped channel that use this repo:
+
+- [One git hook blocked a fake GitHub token, so no secret hit history #Shorts](https://youtu.be/8xQ3gWhe1fQ) · E002 · 2026-11-02
