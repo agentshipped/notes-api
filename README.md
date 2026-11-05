@@ -18,3 +18,4 @@ Videos on the Agent Shipped channel that use this repo:
 - [One git hook blocked a fake GitHub token, so no secret hit history #Shorts](https://youtu.be/8xQ3gWhe1fQ) · E002 · 2026-11-02
 - [Claude Code invented one endpoint shape. A 3-line rule fixed it #Shorts](https://youtu.be/t9Ek80jnkV0) · E001 · 2026-11-03
 - [From no tests to a passing suite in two prompts, with Claude Code](https://youtu.be/vjfrORiDoG0) · E003 · 2026-11-04 · [write-up](https://dev.to/agentshipped/two-prompts-took-an-untested-express-api-to-a-passing-suite-1eeg)
+- [I don't trust an agent's restart. I trust a counter going up by one #Shorts](https://youtu.be/l1spi9ot4FU) · E010 · 2026-11-05
