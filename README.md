@@ -19,3 +19,4 @@ Videos on the Agent Shipped channel that use this repo:
 - [Claude Code invented one endpoint shape. A 3-line rule fixed it #Shorts](https://youtu.be/t9Ek80jnkV0) · E001 · 2026-11-03
 - [I let Claude Code test my Express API, then ran it myself three times](https://youtu.be/lSzonRoE2ok) · E003 · 2026-11-08 · [write-up](https://dev.to/agentshipped/two-prompts-took-an-untested-express-api-to-a-passing-suite-1eeg)
 - [I don't trust an agent's restart. I trust a counter going up by one #Shorts](https://youtu.be/l1spi9ot4FU) · E010 · 2026-11-05
+- [My mocked test passed. An 18-line check found the bug #Shorts](https://youtu.be/wlQU4M953iw) · E006 · 2026-11-10
