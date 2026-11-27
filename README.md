@@ -22,5 +22,5 @@ Videos on the Agent Shipped channel that use this repo:
 - [My mocked test passed. An 18-line check found the bug #Shorts](https://youtu.be/wlQU4M953iw) · E006 · 2026-11-10
 - [A mutant survived my tests. I deleted three lines, not wrote a test #Shorts](https://youtu.be/bv00hyHiYfI) · E005 · 2026-11-12
 - [My Claude Code subagent hands back 4 lines. One named a skipped case #Shorts](https://youtu.be/HWixWGz-kis) · E009 · 2026-11-17
-- [I wired 5 Claude Code hooks on a real repo. Two never fired](https://youtu.be/aR5c3T0jqvc) · E028 · 2026-11-22 · [write-up](https://dev.to/agentshipped/claude-code-hooks-i-wired-5-and-2-never-fired-4ejp)
+- [I wired 5 Claude Code hooks. Two never fired](https://youtu.be/aR5c3T0jqvc) · E028 · 2026-11-22 · [write-up](https://dev.to/agentshipped/claude-code-hooks-i-wired-5-and-2-never-fired-4ejp)
 - [My agent tried a bad commit. One exit code stopped it, and it retried once #Shorts](https://youtu.be/_OPT2tsNkIs) · E024 · 2026-11-24
